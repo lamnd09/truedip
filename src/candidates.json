@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "titlep": "Candidate 1",
+    "picture": "images/candidate_8.jpg",
+    "age": 3,
+    "candidate_name": "Name 1",
+    "address": "Aalborg, Denmark"
+  },
+  {
+    "id": 1,
+    "titlep": "Candidate 2",
+    "picture": "images/candidate_7.jpg",
+    "age": 3,
+    "candidate_name": "Name 2",
+    "address": "Dublin, Ireland"
+  },
+  {
+    "id": 2,
+    "titlep": "Candidate 3",
+    "picture": "images/candidate_6.jpg",
+    "age": 2,
+    "candidate_name": "Name 3",
+    "address": "Street A, City B"
+  },
+  {
+    "id": 3,
+    "titlep": "Candidate 4",
+    "picture": "images/candidate_3.jpg",
+    "age": 2,
+    "candidate_name": "Name 4",
+    "address": "Street B, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "titlep": "Candidate 5",
+    "picture": "images/candidate_1.jpg",
+    "age": 2,
+    "candidate_name": "Name 5",
+    "address": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "titlep": "Candidate 6",
+    "picture": "images/candidate_1.jpg",
+    "age": 3,
+    "candidate_name": "Name 6",
+    "address": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "titlep": "Candidate 7",
+    "picture": "images/candidate_5.jpg",
+    "age": 3,
+    "candidate_name": "Golden Retriever",
+    "address": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "titlep": "Candidate 8",
+    "picture": "images/candidate_5.jpg",
+    "age": 3,
+    "candidate_name": "Golden Retriever",
+    "address": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "titlep": "Candidate 9",
+    "picture": "images/candidate_1.jpg",
+    "age": 2,
+    "candidate_name": "French Bulldog",
+    "address": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "titlep": "Fran",
+    "picture": "images/candidate_3.jpg",
+    "age": 3,
+    "candidate_name": "Boxer",
+    "address": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "titlep": "Leonor",
+    "picture": "images/candidate_3.jpg",
+    "age": 2,
+    "candidate_name": "Boxer",
+    "address": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "titlep": "Dean",
+    "picture": "images/candidate_2.jpg",
+    "age": 3,
+    "candidate_name": "Scottish Terrier",
+    "address": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "titlep": "Stevenson",
+    "picture": "images/candidate_1.jpg",
+    "age": 3,
+    "candidate_name": "French Bulldog",
+    "address": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "titlep": "Kristina",
+    "picture": "images/candidate_5.jpg",
+    "age": 4,
+    "candidate_name": "Golden Retriever",
+    "address": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "titlep": "Ethel",
+    "picture": "images/candidate_5.jpg",
+    "age": 2,
+    "candidate_name": "Golden Retriever",
+    "address": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "titlep": "Terry",
+    "picture": "images/candidate_5.jpg",
+    "age": 2,
+    "candidate_name": "Golden Retriever",
+    "address": "Dawn, Wisconsin"
+  }
+]
